@@ -1,0 +1,14 @@
+pip intall xlwt
+pip install xlrd
+pip install pypyodbc
+Requisito -> Microsoft Visual C++ 9.0 Compiler for Python 2.7
+pip install wheel
+pip install pymssql==2.1.3
+pip install fdb
+pip install pysmb
+
+
+Creamos en C:\APPs las carpetas:
+Log
+Informes
+Informes\erp
